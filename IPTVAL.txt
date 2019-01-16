@@ -1,5 +1,16 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="Premiere",BBB 1 HD
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/14448
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD (2)" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="Premiere",BBB 1 HD (2)
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15590
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="Premiere",BBB 1 SD
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/14447
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 (2)" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="Premiere",BBB 1 (2)
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15587
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD (2)" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="Premiere",BBB 2 HD (2)
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15589
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD (2)" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="Premiere",BBB Mosaico HD (2)
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15588
 #EXTINF:0,A&E HD
 http://maxptv.ddns.net:25461/live/MA020/0706/231.ts
 #EXTINF:0,A&E SD
@@ -336,9 +347,9 @@ http://maxptv.ddns.net:25461/live/MA020/0706/61.ts
 http://maxptv.ddns.net:25461/live/MA020/0706/60.ts
 #EXTINF:0,RedeTV SD
 http://maxptv.ddns.net:25461/live/MA020/0706/59.ts
-#EXTINF:0,Rá-Tim-Bum HD
+#EXTINF:0,RÃ¡-Tim-Bum HD
 http://maxptv.ddns.net:25461/live/MA020/0706/66.ts
-#EXTINF:0,Rá-Tim-Bum SD
+#EXTINF:0,RÃ¡-Tim-Bum SD
 http://maxptv.ddns.net:25461/live/MA020/0706/65.ts
 #EXTINF:0,SBT HD
 http://maxptv.ddns.net:25461/live/MA020/0706/58.ts
