@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB 1 HD
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/14448
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD (2)" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB 1 HD ALT
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15590
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB 1 SD
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/14447
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 (2)" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB 1 (2)
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15587
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB 2 HD
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15742
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD (2)" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB 2 HD ALT
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15589
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 SD" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB 2 SD
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15741
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB Mosaico HD
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15740
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD (2)" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB Mosaico HD ALT
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15588
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico SD" tvg-logo="https://i.imgur.com/uroszZn.png" group-title="BBB19",BBB Mosaico SD
+http://rhagf.co:8880/ValeriaMoura/0riuTTc60O/15739
