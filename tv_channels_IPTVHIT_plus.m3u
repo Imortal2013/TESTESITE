@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Atreseries HD" tvg-logo="" group-title="SPAIN",|ES| Atreseries HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX SPORT VEN" tvg-logo="" group-title="",LA_SD:FOX SPORT VEN
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX SPORT SUR" tvg-logo="" group-title="",LA_SD:FOX SPORT SUR
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX SPORT 3" tvg-logo="" group-title="",LA_SD:FOX SPORT 3
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX SPORT 2" tvg-logo="" group-title="",LA_SD:FOX SPORT 2
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX SPORT" tvg-logo="" group-title="",LA_SD:FOX SPORT
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX SERIES" tvg-logo="" group-title="",LA_SD:FOX SERIES
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX MOVIES" tvg-logo="" group-title="",LA_SD:FOX MOVIES
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX LIFE" tvg-logo="" group-title="",LA_SD:FOX LIFE
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/238.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX FAMILY" tvg-logo="" group-title="",LA_SD:FOX FAMILY
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX COMEDY" tvg-logo="" group-title="",LA_SD:FOX COMEDY
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/236.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX CLASSIC" tvg-logo="" group-title="",LA_SD:FOX CLASSIC
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/235.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX CINEMA" tvg-logo="" group-title="",LA_SD:FOX CINEMA
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX ACTION" tvg-logo="" group-title="",LA_SD:FOX ACTION
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA_SD:FOX" tvg-logo="" group-title="",LA_SD:FOX
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA 1 FHD" tvg-logo="" group-title="SPAIN",LA 1 FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVE LA 2" tvg-logo="" group-title="SPAIN",TVE LA 2
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANTENA 3 FHD" tvg-logo="" group-title="SPAIN",ANTENA 3 FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cuatro HD" tvg-logo="" group-title="SPAIN",Cuatro HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINCO FHD" tvg-logo="" group-title="SPAIN",TELECINCO FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SEXTA FHD" tvg-logo="" group-title="SPAIN",SEXTA FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A3 SERIES" tvg-logo="" group-title="SPAIN",A3 SERIES
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HOLLYWOOD FHD" tvg-logo="" group-title="SPAIN",HOLLYWOOD FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA" tvg-logo="" group-title="SPAIN",HISTORIA
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY  CHANNEL" tvg-logo="" group-title="SPAIN",DISCOVERY  CHANNEL
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="SPAIN",PARAMOUNT CHANNEL
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN  WHITE FHD" tvg-logo="" group-title="SPAIN",AXN  WHITE FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN WHITE FHD" tvg-logo="" group-title="SPAIN",AXN WHITE FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="" group-title="SPAIN",FOX HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BLAZE" tvg-logo="" group-title="SPAIN",BLAZE
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" tvg-logo="" group-title="SPAIN",FOX LIFE
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" group-title="SPAIN",AMC
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY HD" tvg-logo="" group-title="SPAIN",DISNEY HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR ESTRENOS FHD" tvg-logo="" group-title="SPAIN",MOVISTAR ESTRENOS FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DCINE" tvg-logo="" group-title="SPAIN",MOVISTAR DCINE
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR ACCION FHD" tvg-logo="" group-title="SPAIN",MOVISTAR ACCION FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR COMEDIA FHD" tvg-logo="" group-title="SPAIN",MOVISTAR COMEDIA FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR XTRA FHD" tvg-logo="" group-title="SPAIN",MOVISTAR XTRA FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COCINA FHD" tvg-logo="" group-title="SPAIN",COCINA FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/90.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DARK FHD" tvg-logo="" group-title="SPAIN",DARK FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR SERIES MANIA" tvg-logo="" group-title="SPAIN",MOVISTAR SERIES MANIA
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CALLE 13 FHD" tvg-logo="" group-title="SPAIN",CALLE 13 FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR #VAMOS" tvg-logo="" group-title="SPAIN",MOVISTAR #VAMOS
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR F1 HD" tvg-logo="" group-title="SPAIN",MOVISTAR F1 HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR TOROS HD" tvg-logo="" group-title="SPAIN",MOVISTAR TOROS HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES1 FHD" tvg-logo="" group-title="SPAIN",MOVISTAR DEPORTES1 FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/98.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA LIGA TV FHD" tvg-logo="" group-title="SPAIN",LA LIGA TV FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/96.ts
+#EXTINF:-1 tvg-ID="" tvg-name="liga 123" tvg-logo="" group-title="SPAIN",liga 123
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID" tvg-logo="" group-title="SPAIN",REAL MADRID
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1 FHD" tvg-logo="" group-title="SPAIN",EUROSPORT 1 FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport  2 HD" tvg-logo="" group-title="SPAIN",Eurosport  2 HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR  GOLF" tvg-logo="" group-title="SPAIN",MOVISTAR  GOLF
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT FHD" tvg-logo="" group-title="SPAIN",TNT FHD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="#EXTINF:-1 tvg-ID="" tvg-name="**LA:_Telemundo Chicago HD" tvg-logo="" group-title="USA",**LA:_Telemundo Chicago HD" tvg-logo="" group-title="",#EXTINF:-1 tvg-ID="" tvg-name="**LA:_Telemundo Chicago HD" tvg-logo="" group-title="USA",**LA:_Telemundo Chicago HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CINEMA HD" tvg-logo="" group-title="",FOX CINEMA HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY HD" tvg-logo="" group-title="",FOX COMEDY HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 1 ARG" tvg-logo="" group-title="",FOX SPORTS 1 ARG
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FHD:FOX LIFE HD" tvg-logo="" group-title="",FHD:FOX LIFE HD
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="" group-title="",CINEMAX
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZTECA7" tvg-logo="" group-title="",AZTECA7
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FHD:Fox Sports 3 SUR AMERICA" tvg-logo="" group-title="",FHD:Fox Sports 3 SUR AMERICA
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/48.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FHD:FOX SPORTS 2 ARG" tvg-logo="" group-title="",FHD:FOX SPORTS 2 ARG
+http://54.38.93.177:8000/live/IPTVHIT/ZkczisPJZk/47.ts
